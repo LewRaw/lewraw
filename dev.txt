@@ -1,0 +1,8 @@
+for each
+	where funcod = &funcod
+		if funsen = &funsen
+			Hbranco.link
+		else
+			TextoJS.caption = '...'
+		endif	
+end for
